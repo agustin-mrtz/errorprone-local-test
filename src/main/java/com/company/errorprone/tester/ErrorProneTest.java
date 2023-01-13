@@ -24,3 +24,4 @@ public class ErrorProneTest {
         Math.abs(random.nextInt());
     }
 }
+// added line
